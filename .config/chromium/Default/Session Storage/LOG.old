@@ -1,0 +1,6 @@
+2019/07/29-15:42:51.034 3cc Reusing MANIFEST Session Storage/MANIFEST-000001
+2019/07/29-15:42:51.035 3cc Recovering log #12
+2019/07/29-15:42:51.044 3cc Reusing old log Session Storage/000012.log 
+2019/07/29-15:43:13.828 453 Level-0 table #16: started
+2019/07/29-15:43:13.838 453 Level-0 table #16: 20583 bytes OK
+2019/07/29-15:43:13.845 453 Delete type=0 #12
